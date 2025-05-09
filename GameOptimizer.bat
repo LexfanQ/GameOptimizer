@@ -6,7 +6,7 @@ setlocal EnableDelayedExpansion
 
 :: Set version
 set "version=0.5"
-set "github_repo=https://github.com/LexfanQ/GameOptimizer/tree/main"
+set "github_repo=https://raw.githubusercontent.com/LexfanQ/GameOptimizer/main"
 
 :splash_screen
 cls
